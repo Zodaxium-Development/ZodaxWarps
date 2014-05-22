@@ -1,0 +1,15 @@
+name: ZodaxWarps
+author: Zodaxium
+version: 1
+description: Zodax Warps made by Zodaxium
+main: me.zodaxium.warps.Warps
+commands:
+  warp:
+    description: Teleport to a warp
+    usage: /warp (warp)
+  delwarp:
+    description: Delete a warp
+    usage: /delwarp (warp)
+  addwarp:
+    description: Add a warp
+    usage: /addwarp (warp)
